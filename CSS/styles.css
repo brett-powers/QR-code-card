@@ -1,3 +1,14 @@
+:root {
+  --color-white: #fff;
+  --color-light-grey: hsl(212, 45%, 89%);
+  --color-greyish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+/*Typography*/
 body {
-  background-color: gold;
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+}
+html {
+  font-size: 62.5%;
 }

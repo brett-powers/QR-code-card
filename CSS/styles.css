@@ -4,3 +4,11 @@
   --color-greyish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
 }
+
+/*Typography*/
+body {
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+}
+html {
+  font-size: 62.5%;
+}

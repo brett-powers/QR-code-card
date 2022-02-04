@@ -27,3 +27,9 @@ html {
   width: 250px;
   height: 450px;
 }
+.card__img {
+  height: 230px;
+  width: 220px;
+  border-radius: 10px;
+  margin: 15px;
+}

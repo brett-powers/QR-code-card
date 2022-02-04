@@ -8,7 +8,39 @@
 /*Typography*/
 body {
   font-family: Outfit, Arial, Helvetica, sans-serif;
+  background: var(--color-light-grey);
 }
 html {
   font-size: 62.5%;
+}
+/*Card*/
+.card__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  border: 1px solid #000;
+  background: var(--color-white);
+  border-radius: 10px;
+  width: 250px;
+  height: 450px;
+}
+.card__img {
+  height: 230px;
+  width: 220px;
+  border-radius: 10px;
+  margin: 15px;
+}
+.card__text-container {
+  text-align: center;
+  margin: 0 10px;
+}
+.card__header {
+  margin-top: 0;
+}
+.card__text {
+  font-size: 1.4rem;
+  margin-top: 2rem;
 }

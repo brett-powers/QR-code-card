@@ -42,4 +42,5 @@ html {
 .card__text {
   font-size: 1.4rem;
   margin-top: 2.5rem;
+  color: var(--color-greyish-blue);
 }

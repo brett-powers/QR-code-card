@@ -33,3 +33,14 @@ html {
   border-radius: 10px;
   margin: 15px;
 }
+.card__text-container {
+  text-align: center;
+  margin: 0 10px;
+}
+.card__header {
+  margin-top: 0;
+}
+.card__text {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+}
